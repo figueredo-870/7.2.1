@@ -1,0 +1,14 @@
+{
+  "id": 1345,
+  "course": "Testing",
+  "teacherName": "Cristian Ronald",
+  "students": [
+    { "name": "Guzman ", "lastname": "Viani", "age": 23 },
+    { "name": "Cristian", "lastname": "Figueredo", "age": 30 },
+    { "name": "Ivan", "lastname": "Soca", "age": 20 },
+    { "name": "Micaela", "lastname": "Rodriguez", "age": 26 },
+    { "name": "Victoria Belen", "lastname": "Martinez Lema", "age": 29 },
+    { "name": "Josefina ", "lastname": "Martinez Del Puerto", "age": 23 },
+    { "name": "Rodrigo ", "lastname": "Costa", "age": 23 }
+  ]
+}
